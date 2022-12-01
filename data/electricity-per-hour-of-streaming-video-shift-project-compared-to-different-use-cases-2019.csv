@@ -1,0 +1,11 @@
+Source: IEA. All Rights Reserved
+This data is subject to the IEA's terms and conditions: https://www.iea.org/t_c/termsandconditions/
+Units: kWh per viewing hour
+Scenario,Data centres,Data transmission,Devices
+Shift Project (original),0.7776,5.2704,0.0128
+Shift Project (corrected),0.0972,0.6588,0.0128
+IEA average (original),0.0138,0.1084,0.0555
+IEA average (updated),0.0037,0.0177,0.0555
+"50'' TV, WiFi, 4K",0.0139,0.0182,0.1200
+"Laptop, WiFi, HD",0.0060,0.0182,0.0220
+"Phone, 4G, 'Auto'",0.0005,0.0085,0.0012

@@ -1,0 +1,19 @@
+#+TITLE: Companion Material: A community-guided discussion about social and environmental effects of post-COVID-19 Computer Science conferencing
+
+* About
+This repository holds the artifacts (data, code scripts, etc) used in the paper ``A community-guided discussion about social and environmental
+effects of post-COVID-19 Computer Science conferencing''.
+
+The authors are (alphabetic order):
+
+- Danilo Carastan-Santos: danilo.carastan-dos-santos@inria.fr
+- Krzysztof Rzadca: krzadca@mimuw.edu.pl
+- Rizos Sakellariou: rizos@cs.man.ac.uk
+- Leonel Sousa: las@inesc-id.pt
+- Denis Trystram: denis-trystram@imag.fr
+
+* Repository Contents
+
+- [[./data]]: Contains all data used during the analyses
+- [[./Figures]]: Contains the paper figures
+- [[./experiments-plots.org]]: Contains all source code of the methods and plots
