@@ -8,7 +8,6 @@ The authors are (alphabetic order):
 
 - Danilo Carastan-Santos: danilo.carastan-dos-santos@inria.fr
 - Krzysztof Rzadca: krzadca@mimuw.edu.pl
-- Rizos Sakellariou: rizos@cs.man.ac.uk
 - Leonel Sousa: las@inesc-id.pt
 - Denis Trystram: denis-trystram@imag.fr
 
